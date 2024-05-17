@@ -27,7 +27,7 @@ but not significant hence  the code is commented out.
 --------------------------------------------------------------------------------------------------------
 TO RUN THE CODE
 ---------------
-* Open the JUYPTER Notebook by either clicking on the Collab Link at top in the code file or just copying the whole code in Google Collab
+* Open the JUYPTER Notebook by either clicking on the Collab Link at top in the code file or just copying the whole code in Google Collab or click this https://colab.research.google.com/drive/1UYiMhA8VevqSbf5j5AAPpJsoSjfEOSYZ?usp=sharing
 * ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/2f8e4f77-ae98-4879-9a0c-fd4d99f6f246)
 
 * Change the new_data dataframe as per requrement for user input in the model you want to run
