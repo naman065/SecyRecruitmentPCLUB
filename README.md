@@ -5,6 +5,8 @@
 
 *IF THE NOTEBOOK DOESNT RENDER ON GITHUB USE* - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/1f986de50005558f84043ef540e0a29034796fc9/ComputerVision.ipynb
 
+*WITH GRADIO INTERFACE* - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/62b0e0b3160f9a994f1d8f7396e52ab7e77a2101/ComputerVision.ipynb
+
 --------------------------------------------------------------------------------------------------------
  b) The DataSet was obtained on Kaggle with 89000 images of people in masks.
 * I filtered the data and used only 700 images in total for training validating and testing(300+200+200)
@@ -36,6 +38,7 @@ d) HOW TO RUN THE CODE
 * IN THE LAST CELL I HAVE PROVIDED MY IMAGE IN A MASK DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
   (you can download any random image of a person in mask and select it)
 * THE CODE PREDICTS THE GENDER IN MY CASE MALE:P
+* CAN ALSO CLICK DIRECTLY ON THE GRADIO INTERFACE LINK
 --------------------------------------------------------------------------------------------------------------
 e) MODEL IN ACTION (can be seen in the notebook uploaded here also)
 -------------------------------------------------------------------
@@ -47,6 +50,10 @@ e) MODEL IN ACTION (can be seen in the notebook uploaded here also)
 * ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/42ba8380-ca7a-4290-9b83-c577a23c0a2a)
 
   ---------------------------------------------------------------------------------------------------------------
+GRADIO INTERFACE(Taken Help From CHAT GPT)
+----------------
+![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/53cf53d6-0dc2-4462-b5a3-c701942467e3)
+
 
 
 
