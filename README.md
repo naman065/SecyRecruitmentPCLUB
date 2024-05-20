@@ -30,7 +30,7 @@ c)APPROACH AND ROADBLOCKS
 ------------------------------------------------------------------------------------------------------------
 d) HOW TO RUN THE CODE
 ----------------------
-* DOWNLOAD THE DATASET FROM DRIVE LINK AND SAVE IT ONN YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES
+* DOWNLOAD THE DATASET FROM DRIVE LINK AND SAVE IT ON YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES OR STRUCTURE
 * OPEN THE COLAB file FROM LINK - https://colab.research.google.com/drive/1nT0N2qGaN4mo2p13b_6cJkuh2OHLKsPc?usp=sharing
 
 * RUN THE CODE CELL BY CELL AND MOUNT YOUR GOOGLE DRIVE ON COLAB HAVING THE dataset file
