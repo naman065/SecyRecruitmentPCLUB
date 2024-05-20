@@ -30,6 +30,11 @@ c)APPROACH AND ROADBLOCKS
 ------------------------------------------------------------------------------------------------------------
 d) HOW TO RUN THE CODE
 ----------------------
+* CLICK THIS LINK- https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/62b0e0b3160f9a994f1d8f7396e52ab7e77a2101/ComputerVision.ipynb
+* UPLOAD ANY IMAGE YOU LIKE WITH PERSON IN MASK I HAVE PROVIDED SOME IMG ON GITHUB INCLUDING MY OWN!
+  
+#IF ABOVE DOESNT WORK THEN FOLLOW BELOW OTHERWISE IGNORE
+--------------------------------------------------------------------------------------------------------------
 * DOWNLOAD THE DATASET FROM GITHUB OR FROM DRIVE LINK AND SAVE IT ONN YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES
 * OPEN THE COLAB file FROm ABOVE LINK OR or FROM THIS
 * ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/2e99fcbb-7d63-44cc-a45b-ce1b37775ddb)
@@ -38,7 +43,7 @@ d) HOW TO RUN THE CODE
 * IN THE LAST CELL I HAVE PROVIDED MY IMAGE IN A MASK DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
   (you can download any random image of a person in mask and select it)
 * THE CODE PREDICTS THE GENDER IN MY CASE MALE:P
-* CAN ALSO CLICK DIRECTLY ON THE GRADIO INTERFACE LINK
+  
 --------------------------------------------------------------------------------------------------------------
 e) MODEL IN ACTION (can be seen in the notebook uploaded here also)
 -------------------------------------------------------------------
