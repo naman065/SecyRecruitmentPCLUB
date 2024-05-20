@@ -1,7 +1,9 @@
 # Computer Vision Task
 *LINK TO DATASET*- https://drive.google.com/drive/folders/12ju_7ZeEn0reD4agQt5UmQ9qSHV4C9w6?usp=sharing
+
 *LINK TO COLAB FILE*- https://colab.research.google.com/drive/1nT0N2qGaN4mo2p13b_6cJkuh2OHLKsPc?usp=sharing
-*IF THE NOTEBOOK DOESNT RENDER ON GITHUB USE - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/1f986de50005558f84043ef540e0a29034796fc9/ComputerVision.ipynb
+
+*IF THE NOTEBOOK DOESNT RENDER ON GITHUB USE* - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/1f986de50005558f84043ef540e0a29034796fc9/ComputerVision.ipynb
 
 --------------------------------------------------------------------------------------------------------
  b) The DataSet was obtained on Kaggle with 89000 images of people in masks.
