@@ -1,6 +1,7 @@
 # Computer Vision Task
 *LINK TO DATASET*- https://drive.google.com/drive/folders/12ju_7ZeEn0reD4agQt5UmQ9qSHV4C9w6?usp=sharing
 *LINK TO COLAB FILE*- https://colab.research.google.com/drive/1nT0N2qGaN4mo2p13b_6cJkuh2OHLKsPc?usp=sharing
+*IF THE NOTEBOOK DOESNT RENDER ON GITHUB USE - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/1f986de50005558f84043ef540e0a29034796fc9/ComputerVision.ipynb
 
 --------------------------------------------------------------------------------------------------------
  b) The DataSet was obtained on Kaggle with 89000 images of people in masks.
@@ -26,7 +27,9 @@ c)APPROACH AND ROADBLOCKS
 d) HOW TO RUN THE CODE
 ----------------------
 * DOWNLOAD THE DATASET FROM GITHUB OR FROM DRIVE LINK AND SAVE IT ONN YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES
-* OPEN THE COLAB file FROm ABOVE LINK OR or FROM THIS LINK
+* OPEN THE COLAB file FROm ABOVE LINK OR or FROM THIS
+* ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/2e99fcbb-7d63-44cc-a45b-ce1b37775ddb)
+
 * RUN THE CODE CELL BY CELL AND MOUNT YOUR GOOGLE DRIVE ON COLAB HAVING THE dataset file
 * IN THE LAST CELL I HAVE PROVIDED MY IMAGE IN A MASK DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
   (you can download any random image of a person in mask and select it)
