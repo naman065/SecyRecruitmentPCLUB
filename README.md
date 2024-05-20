@@ -21,8 +21,27 @@ c)APPROACH AND ROADBLOCKS
   I was also confused between validation and test data and why we use it to fine tuee the model.
 * Another minor roadblock was accessing the zip file on colab in the local directory hence I switched to google drive for the same.
 * THE CODE HAD MANY MINOR ERRORS WHICH WAS FIXED BY ONLY LOOKING AT SIMILR EXAMPLES ON KAGGLE
+* THE CODE WORKS WITH VARIATION IN MASK COLOR, DESIGN ETC!!!!
 ------------------------------------------------------------------------------------------------------------
 d) HOW TO RUN THE CODE
 ----------------------
 * DOWNLOAD THE DATASET FROM GITHUB OR FROM DRIVE LINK AND SAVE IT ONN YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES
 * OPEN THE COLAB file FROm ABOVE LINK OR or FROM THIS LINK
+* RUN THE CODE CELL BY CELL AND MOUNT YOUR GOOGLE DRIVE ON COLAB HAVING THE dataset file
+* IN THE LAST CELL I HAVE PROVIDED MY IMAGE IN A MASK DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
+  (you can download any random image of a person in mask and select it)
+* THE CODE PREDICTS THE GENDER IN MY CASE MALE:P
+--------------------------------------------------------------------------------------------------------------
+e) MODEL IN ACTION (can be seen in the notebook uploaded here also)
+-------------------------------------------------------------------
+* MY IMAGE I PROVIDED
+* ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/d18fd0ca-13c2-4bb5-8a22-dc4ff9e8292c)
+* OUTPUT
+* ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/07993d50-0b51-4868-a71e-1b84a1aff829)
+* ACCURACY
+* ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/42ba8380-ca7a-4290-9b83-c577a23c0a2a)
+
+  ---------------------------------------------------------------------------------------------------------------
+
+
+
