@@ -1,6 +1,8 @@
 # Computer Vision Task
 *LINK TO DATASET*- https://drive.google.com/drive/folders/12ju_7ZeEn0reD4agQt5UmQ9qSHV4C9w6?usp=sharing
 
+*LINK TO MODEL FILE*- https://drive.google.com/file/d/1UOJvWGBaEABec4ov53NoETIvZCZS-T8B/view?usp=sharing
+
 *LINK TO COLAB FILE*- https://colab.research.google.com/drive/1nT0N2qGaN4mo2p13b_6cJkuh2OHLKsPc?usp=sharing
 
 *IF THE NOTEBOOK DOESNT RENDER ON GITHUB USE* - https://nbviewer.org/github/naman065/SecyRecruitmentPCLUB/blob/1f986de50005558f84043ef540e0a29034796fc9/ComputerVision.ipynb
@@ -30,14 +32,14 @@ c)APPROACH AND ROADBLOCKS
 ------------------------------------------------------------------------------------------------------------
 d) HOW TO RUN THE CODE
 ----------------------
-* DOWNLOAD THE DATASET FROM DRIVE LINK AND SAVE IT ON YOUR GOOGLE DRIVE AS *dataset* ONLY DONT CHANGE NAMES OR STRUCTURE
-* OPEN THE COLAB file FROM LINK - https://colab.research.google.com/drive/1nT0N2qGaN4mo2p13b_6cJkuh2OHLKsPc?usp=sharing
-
-* RUN THE CODE CELL BY CELL AND MOUNT YOUR GOOGLE DRIVE ON COLAB HAVING THE dataset file
-* IN THE LAST CELL (I HAVE PROVIDED MY IMAGE IN A MASK WITH OTHER IMGS) DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
+* DOWNLOAD THE MODEL FROM DRIVE LINK https://drive.google.com/file/d/1UOJvWGBaEABec4ov53NoETIvZCZS-T8B/view?usp=sharing or from
+   GitHub AND SAVE IT ON YOUR GOOGLE DRIVE AS IT IS ONLY DONT CHANGE PATH SAVE TO *MyDrive*
+* OPEN THE COLAB file FROM LINK - https://colab.research.google.com/drive/16h7HjFHNlYIgwIyLRhnJ9_MIUWZ9slMG?usp=sharingg
+* RUN THE CELL AND MOUNT YOUR GOOGLE DRIVE ON COLAB HAVING THE gender_model.h5 file (please make sure the file path is correct)
+* IN THE CELL (I HAVE PROVIDED MY IMAGE IN A MASK WITH OTHER IMGS) DOWNLOAD IT ON YOUR COMPUTER AND RUN THE CELL AND SELECT THAT IMAGE
   (you can download any random image of a person in mask and select it)
 * THE CODE PREDICTS THE GENDER IN MY CASE MALE:P
-* I HAVE PROVIDED BOTH GRADIO INTERFACE AND A CELL WHICH JUST PREDICS THE OUTPUT BY UPLOADING IMAGE
+* I HAVE PROVIDED BOTH GRADIO INTERFACE 
 ---------------------------------------------------------------------------------------------------------------
   
 --------------------------------------------------------------------------------------------------------------
@@ -53,6 +55,8 @@ e) MODEL IN ACTION (can be seen in the notebook uploaded here also)
   ---------------------------------------------------------------------------------------------------------------
 GRADIO INTERFACE(Taken Help From CHAT GPT)
 ----------------
+![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/da0b14d3-ea14-4ee9-9cc9-532e2b5d4f6c)
+
 ![image](https://github.com/naman065/SecyRecruitmentPCLUB/assets/146644023/53cf53d6-0dc2-4462-b5a3-c701942467e3)
 
 
